@@ -49,7 +49,7 @@
   - [3.6. 多路复用机制(Mechanism)](#36-多路复用机制mechanism)
   - [3.7. CSMA/CA 避免冲突的载波侦听多路访问](#37-csmaca-避免冲突的载波侦听多路访问)
     - [3.7.1. CSMA/CA过程](#371-csmaca过程)
-    - [3.7.2. CSMA/MA实例](#372-csmama实例)
+    - [3.7.2. CSMA/CA实例](#372-csmama实例)
   - [3.8. 实际数据传输率](#38-实际数据传输率)
   - [3.9. WLAN和Ethernet区别](#39-wlan和ethernet区别)
 - [4. Layer 2 Devices 第二层设备](#4-layer-2-devices-第二层设备)
